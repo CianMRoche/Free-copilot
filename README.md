@@ -1,3 +1,4 @@
+# Get github copilot subscription for free (and more)
 This will get you access to github education (+github copilot) using your enrolment at a university. For educators youll have to upload a different document in step 3 and make sure you select "for educators" when prompted, but the process is generally the same. Shown below is the steps I followed using MIT enrolment documentation as a student.
 
 # Steps
