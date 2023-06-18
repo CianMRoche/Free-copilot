@@ -4,7 +4,7 @@ This will get you access to github education (+github copilot) using your enrolm
 # Steps
 1. Need a github account with your .edu account attached to it (go to https://github.com/settings/emails if you need to add one to an existing account)
 2. Go to https://education.github.com/benefits and click "get student benefits" on the left
-3. Need to upload proof of registration since our IDS have no dates. Go to https://registrar.mit.edu/transcripts-records/transcripts-certifications-letters/enrollment-certifications to get a pdf
+3. Need to upload proof of registration since our IDs have no dates. Go to https://registrar.mit.edu/transcripts-records/transcripts-certifications-letters/enrollment-certifications to get a pdf
 4. The upload process is currently quite odd; need to take a picture while on the webpage (people are complaining online, no solution coming yet). I cant do that reliably so I did the following to get a virtual camera: 
     - Download OBS here https://obsproject.com/
 	- Install saying to optimize for whatever youd like, I chose optimize for recording but doesnt matter
