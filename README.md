@@ -28,4 +28,4 @@ This will get you access to github education (+github copilot) using your enrolm
   <p align="center">
 	<img width="408" alt="get_access" src="https://github.com/CianMRoche/Free-copilot/assets/29131312/bbb19872-354d-4fdc-9f68-8323d3d06c20">
   </p>
-7. You've got it now, have fun. My recommendation is to use [visual studio code](https://code.visualstudio.com/) as your editor, and to use the github copilot extension (which will require you to sign in to your github account through vscode to unlock copilot usage)
+7. You've got it now, have fun. My recommendation is to use [visual studio code](https://code.visualstudio.com/) as your editor, and to use the github copilot extension (which will require you to sign in to your github account through vscode to unlock copilot usage). Better still is to use the github copilot chat extension too, which allows for an in-IDE amazing chat bot to help with code generation, debugging and testing. This may require using the github copilot nightly extension rather than the basic github copilot extension, and signing up for a waitlist (which only took a few minutes to go through for me).
